@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c671cf28727bdbe468ea3523ef5bf20e, type: 3}
+  m_Name: Rogue_01
+  m_EditorClassIdentifier: Assembly-CSharp::WarrionStatsScriptibleObj
+  _minHealtPoint: 80
+  _maxHealtPoint: 140
+  _minDamage: 8
+  _maxDamage: 9
+  _minArmor: 40
+  _maxArmor: 50
+  _attackSpeed: 1.5
+  _charactersName: Rogue_01
+  _moveSpeed: 2
+  _attackRange: 1
+  _charactersSprite: {fileID: -3863510118541214054, guid: bb2fbc08c1ba7f348a7663b9bdc922fc, type: 3}
+  _description: 1

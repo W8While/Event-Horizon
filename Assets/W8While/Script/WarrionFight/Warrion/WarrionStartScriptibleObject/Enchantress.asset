@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c671cf28727bdbe468ea3523ef5bf20e, type: 3}
+  m_Name: Enchantress
+  m_EditorClassIdentifier: Assembly-CSharp::WarrionStatsScriptibleObj
+  _minHealtPoint: 1200
+  _maxHealtPoint: 1800
+  _minDamage: 12
+  _maxDamage: 15
+  _minArmor: 1
+  _maxArmor: 3
+  _minCritChance: 0
+  _maxCritChance: 10
+  _minCritDamage: 1.2
+  _maxCritDamage: 1.5
+  _minEvasionChance: 20
+  _maxEvasionChance: 40
+  _charactersName: Encha
+  _moveSpeed: 1
+  _attackRange: 4
+  _attackSpeed: 1.2
+  _charactersSprite: {fileID: 6799499978860783342, guid: 52ad8b37e7fef3040948afa7470dafd9, type: 3}
+  _description: "\u0440\u0435\u043D\u0436 \u0430\u0442\u0430\u043A\u0430 \u0435\u0449
+    \u0435\u0449 \u0435\u0449"
